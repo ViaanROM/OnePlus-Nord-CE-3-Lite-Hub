@@ -1,6 +1,8 @@
-# My Website (Made with Bolt.new)
+# My Website (Made with AI)
 
-This is a simple website made using [Bolt.new](https://bolt.new).  
+Website Link : https://www.ce3lite-hub.netlify.com
+
+This is a simple website 
 I exported it as a ZIP and uploaded the files here.
 
 ## 📁 What's Inside?
